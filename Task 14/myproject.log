@@ -1,0 +1,3 @@
+23:07:55,156 ERROR main RestApi:postMessage:32 - Post message was executed
+23:08:15,268 ERROR main RestApi:editPost:48 - Edit message was executed
+23:08:28,283 ERROR main RestApi:deletePost:63 - Delete message was executed
