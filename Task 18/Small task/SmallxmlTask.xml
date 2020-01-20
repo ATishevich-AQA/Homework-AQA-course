@@ -1,0 +1,14 @@
+<Refs>
+	<Countries>
+		<Country>
+			<Code>RUS</Code>
+			<Name>Россия</Name>
+			<Description>Российская федерация</Description>
+		</Country>
+		<Country>
+			<Code>USA</Code>
+			<Name>США</Name>
+			<Description>Соединённые Штаты Америки</Description>	
+		</Country>
+	</Countries>
+</Refs>				
